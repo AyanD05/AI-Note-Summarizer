@@ -3,8 +3,11 @@ Built with a Flask backend and a React frontend, the app provides fast, accurate
 
 🚀 Features
 🔹 Summarizes long paragraphs into concise bullet-points
+
 🔹 Full-stack implementation (React + Flask)
+
 🔹 Uses Llama 3 for high-quality text summarization
+
 🔹 REST API for sending/receiving data
 🔹 Clean UI for easy note input
 🔹 Handles JSON requests with CORS-enabled backend
